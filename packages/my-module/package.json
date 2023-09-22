@@ -24,5 +24,6 @@
     "react-dom": "16.8.6",
     "tslib": "1.9.3",
     "typescript": "3.4.1"
-  }
+  },
+  "gitHead": "ddcedd16bfd22b39fcbef88c6a229c5025daeeb5"
 }
