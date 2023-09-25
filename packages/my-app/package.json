@@ -1,9 +1,9 @@
 {
   "name": "my-app",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "private": true,
   "dependencies": {
-    "my-module": "^0.0.9",
+    "my-module": "^0.0.10",
     "react": "16.8.6",
     "react-dom": "16.8.6",
     "react-scripts": "2.1.8"
